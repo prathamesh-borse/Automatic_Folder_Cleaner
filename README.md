@@ -18,8 +18,7 @@ Clean The Clutter
 
 ## Video Example
 
-<img src="
-https://github.com/viraldevpb/Automatic_Folder_Cleaner/blob/master/Video_Example.gif" width="30px">
+![Video_Example](https://user-images.githubusercontent.com/66899360/105299103-82314100-5be0-11eb-8264-d699b694f55f.gif)
 
 ## How to run this Website
 
